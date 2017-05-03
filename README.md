@@ -10,8 +10,8 @@ The Gravatar Generator
 
 ## Installation
 
-```
-npm i react-tab-list
+```js
+npm i gravatary --save
 ```
 
 ## Usage: 
